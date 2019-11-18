@@ -1,4 +1,13 @@
 # website
+----------------------------------
+
+
 This is my portfolilo.
 
-My first Portfolio.
+Bootstrap4, HTML5, CSS, Jquery 
+
+Very sample Portfolio Design. Information are updated.
+
+---------------------------------------
+
+
